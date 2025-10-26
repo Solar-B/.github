@@ -1,2 +1,1 @@
-# .github
-A solar trike
+# Solar Bear - a solar trike
