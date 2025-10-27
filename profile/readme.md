@@ -1,4 +1,4 @@
-![solar-bear](../pictures/solar_b.jpeg)
+![solar-bear](solar_b.png)
 
 # Solar Bear
 
