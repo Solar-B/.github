@@ -6,10 +6,10 @@ A solar trike
 
 The purpose of the __Solar Bear__ is to:
 
-
-## Why Solar Bear?
-
-Because:
+- Transport people inside cities.
+- Reduce the gas emissions.
+- Motivate people to exercise.
+- Occupy less parking space.
 
 ## Maker
 
