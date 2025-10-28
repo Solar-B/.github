@@ -2,7 +2,7 @@
 
 # Solar Bear
 
-A solar trike
+A solar-hybrid trike
 
 The purpose of the __Solar Bear__ is to:
 
@@ -67,9 +67,9 @@ Will be updated ...
 
 ## Pictures and videos
 
-A video ...
+A video will be posted soon ...
 
-Pictures are [here](../pictures/).
+More pictures soon ...
 
 ## License
 
@@ -91,4 +91,4 @@ Mihai Oltean, *Solar Bear; A solar trike*, 2025.
 
 ## Special thanks to
 
-Dorin Popa, Nicolae Oltean, Emil Roșu, Cristi Simina, ... and many others ...
+Dorin Popa, Nicolae Oltean, Emil Roșu, Sam Rabern Luck, Cristian Simina, ... and many others ...
