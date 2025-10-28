@@ -2,7 +2,7 @@
 
 # Solar Bear
 
-A solar-hybrid trike
+A solar-hybrid trike: powered by sun and muscles!
 
 The purpose of the __Solar Bear__ is to:
 
@@ -34,6 +34,9 @@ All units are in mm.
 - Solar panels
 - Rectangular tube 50x30x2
 - Round tube 3/4
+- Aluminium profiles sigma 20x20
+- threaded pipe (M16, M12).
+- screws, nuts, washers
 
 ### Tools
 
@@ -51,10 +54,10 @@ All units are in mm.
 
 ## Build instructions
 
-- Cut the bars to required size and angle,
-- Build (weld) the structure,
+- Cut the bars to required size and angle
+- Build (weld) the structure
 
-More details are in [instructions.md](instructions.md)
+More details will be here ... [instructions.md](instructions.md)
 
 ## Cost
 
@@ -77,7 +80,13 @@ More pictures soon ...
 
 ## License
 
-MIT. You may do whatever you want with this information as long as you mention the author.
+MIT
+
+You may do whatever you want with this information as long as you mention the author.
+
+## Cite as
+
+Mihai Oltean, *Solar Bear; A solar trike*, 2025.
 
 ## Warning
 
@@ -89,9 +98,6 @@ MIT. You may do whatever you want with this information as long as you mention t
 
 - This is a work in progress. Everything might change depending on the experiment results.
 
-## Cite as
-
-Mihai Oltean, *Solar Bear; A solar trike*, 2025.
 
 ## Special thanks to
 
