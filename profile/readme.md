@@ -31,6 +31,10 @@ Brief instructions are given below. More details are in the links.
 
 All units are in mm.
 
+- Solar panels
+- Rectangular tube 50x30x2
+- Round tube 3/4
+
 ### Tools
 
 - Band saw (able to cut 80x40mm rectangular tube at 52 degrees angle). I have a [PILOUS ARG 130 mobil](https://www.pilous.cz/en/metal/bandsaws/manual/arg-130-mobil).
@@ -91,4 +95,4 @@ Mihai Oltean, *Solar Bear; A solar trike*, 2025.
 
 ## Special thanks to
 
-Dorin Popa, Nicolae Oltean, Emil Roșu, Sam Rabern Luck, Cristian Simina, ... and many others ...
+Dorin Popa, Nicolae Oltean, Emil Roșu, Sam Rabern Luck, Cristian Simina, Zuga Răzvan, ... and many others ...
