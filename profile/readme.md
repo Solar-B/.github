@@ -6,10 +6,18 @@ A solar-hybrid trike: powered by sun and muscles!
 
 The purpose of the __Solar Bear__ is to:
 
-- Transport people inside cities.
-- Reduce the gas emissions.
-- Motivate people to exercise.
+- Transport people inside cities,
+- Reduce the gas emissions,
+- Motivate people to exercise,
 - Occupy less parking space.
+
+# Technical specs
+
+- 2.7m long, 1.5m wide (including wheels),
+- weight: 120kg (excluding driver),
+- assisted pedaling,
+- motor max speed: 25km/h,
+- solar power: max 400W.
 
 ## Maker
 
@@ -29,14 +37,16 @@ Brief instructions are given below. More details are in the links.
 
 ### Materials
 
-All units are in mm.
-
-- Solar panels
-- Rectangular tube 50x30x2
-- Round tube 3/4
-- Aluminium profiles sigma 20x20
-- threaded pipe (M16, M12).
-- screws, nuts, washers
+- solar panels: front 2x Victron 1485x668mm, back 2x Victron 1030x668mm,
+- battery: TBD,
+- motor: Bosch Active Line,
+- rectangular tube 50x30x2: 7m,
+- rectangular tube 50x20x2: 80cm,
+- round tube 3/4: 2m,
+- round tube 1/2: 70cm,
+- aluminium profiles sigma 20x20: 24m,
+- threaded pipe M12: 8pcs of 1m,
+- screws, nuts, washers (M6, M8, M10, M12): many.
 
 ### Tools
 
