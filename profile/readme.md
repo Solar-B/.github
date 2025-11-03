@@ -33,7 +33,7 @@ Town: **Cugir**, country: **Romania**.
 
 ## Materials, tools and software
 
-Brief instructions are given below. More details are in the links.
+Details are given below.
 
 ### Materials
 
@@ -45,6 +45,8 @@ Brief instructions are given below. More details are in the links.
 - round tube 3/4: 2m,
 - round tube 1/2: 70cm,
 - aluminium profiles sigma 20x20: 24m,
+- bike chain: 4m,
+- bike parts: pedals, brakes, etc,
 - threaded pipe M12: 8pcs of 1m,
 - screws, nuts, washers (M6, M8, M10, M12): many.
 
@@ -64,8 +66,12 @@ Brief instructions are given below. More details are in the links.
 
 ## Build instructions
 
-- Cut the bars to required size and angle
-- Build (weld) the structure
+- Cut the bars to required size and angle,
+- Build (weld) the structure,
+- Reinforce solar panels,
+- Place solar panels,
+- Connect eletrical installation,
+- Go!
 
 More details will be here ... [instructions.md](instructions.md)
 
