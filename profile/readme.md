@@ -13,10 +13,12 @@ The purpose of the __Solar Bear__ is to:
 
 # Technical specs
 
+- recumbent trike,
 - 2.7m long, 1.5m wide (including wheels),
 - weight: 120kg (excluding driver),
 - assisted pedaling,
 - motor max speed: 25km/h,
+- battery: user choice,
 - solar power: max 400W.
 
 ## Maker
