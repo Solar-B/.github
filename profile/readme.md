@@ -2,7 +2,7 @@
 
 # Solar Bear
 
-A solar-hybrid trike: powered by sun and muscles!
+A hybrid solar-muscle powered trike!
 
 The purpose of the __Solar Bear__ is to:
 
