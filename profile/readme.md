@@ -14,10 +14,11 @@ The purpose of the __Solar Bear__ is to:
 # Technical specs
 
 - recumbent trike,
-- 2.7m long, 1.5m wide (including wheels),
-- weight: 120kg (excluding driver),
+- 2.7m long, 1.7m wide (including wheels),
+- weight: 120kg (excluding driver, including panels),
 - assisted pedalling,
 - motor max speed: 25km/h,
+- motor (continuous) power: 250W,
 - battery: user choice,
 - solar power: max 600W.
 
@@ -120,4 +121,4 @@ Mihai Oltean, *Solar Bear; A solar trike*, 2025.
 
 ## Special thanks to
 
-Dorin Popa, Nicolae Oltean, Emil Roșu, Sam Rabern Luck, Cristian Simina, Zuga Răzvan, ... and many others ...
+Dorin Popa, Nicolae Oltean, Emil Roșu, Sam Rabern Luck, Cristian Simina, Mihaela Roșu, Zuga Răzvan, ... and many others ...
