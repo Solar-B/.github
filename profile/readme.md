@@ -19,8 +19,8 @@ The purpose of the __Solar Bear__ is to:
 - assisted pedalling,
 - motor max speed: 25km/h,
 - motor (continuous) power: 250W,
-- battery: owner choice,
-- solar power: max 600W.
+- solar power: max 600W,
+- battery: owner choice.
 
 ## Maker
 
