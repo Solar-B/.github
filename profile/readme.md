@@ -106,7 +106,7 @@ You may do whatever you want with this information as long as you mention the au
 
 ## Cite as
 
-Mihai Oltean, *Solar Bear; A solar trike*, 2025.
+Mihai Oltean, *Solar Bear; A hybrid trike*, 2025.
 
 ## Warning
 
