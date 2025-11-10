@@ -2,7 +2,7 @@
 
 # Solar Bear
 
-A hybrid solar-muscle powered trike!
+A hybrid Sun/muscle-powered trike!
 
 The purpose of the __Solar Bear__ is to:
 
@@ -19,7 +19,7 @@ The purpose of the __Solar Bear__ is to:
 - assisted pedalling,
 - motor max speed: 25km/h,
 - motor (continuous) power: 250W,
-- battery: user choice,
+- battery: owner choice,
 - solar power: max 600W.
 
 ## Maker
