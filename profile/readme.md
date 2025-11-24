@@ -8,8 +8,10 @@ The purpose of the __Solar Bear__ is to:
 
 - Transport people inside cities,
 - Reduce the gas emissions,
+- Consume electrical energy where it is produced,
 - Motivate people to exercise,
-- Occupy less parking space.
+- Occupy less parking space,
+- Motivate people to build their own trike.
 
 # Technical specs
 
@@ -26,7 +28,7 @@ The purpose of the __Solar Bear__ is to:
 
 [Mihai Oltean](https://mihaioltean.github.io)
 
-## Project location
+## Project inception location
 
 Town: **Cugir**, country: **Romania**.
 
@@ -34,11 +36,7 @@ Town: **Cugir**, country: **Romania**.
 
 [Solar Bear CAD](https://github.com/solar-b/cad)
 
-## Materials, tools and software
-
-Details are given below.
-
-### Materials
+## Materials
 
 - solar panels: front 2x Victron 1485x668mm, back 2x Victron 1030x668mm,
 - battery: TBD,
@@ -53,9 +51,9 @@ Details are given below.
 - threaded pipe M12: 8pcs of 1m,
 - screws, nuts, washers (M5, M6, M8, M10, M12): many.
 
-### Tools
+## Tools
 
-- Band saw (able to cut 80x40mm rectangular tube at 52 degrees angle). I have a [PILOUS ARG 130 mobil](https://www.pilous.cz/en/metal/bandsaws/manual/arg-130-mobil).
+- Band saw (able to cut 80x40mm rectangular tube at 52 degrees angle). I have a [PILOUS ARG 130 mobil](https://www.pilous.cz/en/metal/bandsaws/manual/arg-130-mobil). A panel circular saw (with blade for metals) is also good if you do not have a band saw.
 - Drill machine. I have a [Milwaukee M18 FDD3](https://www.milwaukeetool.com/).
 - Welding machine. I have a [Lorch Handy 160](https://lorch.eu).
 - Panel circular saw, (I have a Bosch - GCM 12 SDE).
@@ -63,7 +61,7 @@ Details are given below.
 - Drill bits.
 - Many others...
 
-### Software
+## Software
 
 - [OpenSCAD](https://openscad.org) - for design.
 - [Real Cut 1D](https://optimalprograms.com/realcut1d.htm) - for minimizing the waste when cutting bars.
@@ -77,7 +75,7 @@ Details are given below.
 - Connect eletrical installation,
 - Go!
 
-More details will be here ... [instructions.md](instructions.md)
+More details will be given here, soon ... [instructions.md](instructions.md)
 
 ## Cost
 
@@ -121,4 +119,4 @@ Mihai Oltean, *Solar Bear; A hybrid trike*, 2025.
 
 ## Special thanks to
 
-Dorin Popa, Nicolae Oltean, Emil Roșu, Sam Rabern Luck, Cristian Simina, Mihaela Roșu, Zuga Răzvan, ... and many others ...
+Dorin Popa, Nicolae Oltean, Cristian Simina, Emil Roșu, Sam Rabern Luck, Mihaela Roșu, Zuga Răzvan, ... and many others ...
