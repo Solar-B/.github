@@ -10,7 +10,8 @@ The purpose of the __Solar Bear__ is to:
 - Reduce the gas emissions,
 - Consume electrical energy where it is produced,
 - Motivate people to exercise,
-- Occupy less parking space,
+- Occupy less parking space than a car,
+- Be safer than a bike,
 - Motivate people to build their own trike.
 
 # Technical specs
