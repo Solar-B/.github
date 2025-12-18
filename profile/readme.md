@@ -8,10 +8,11 @@ The purpose of the __Solar Bear__ is to:
 
 - Transport people inside cities,
 - Reduce the gas emissions,
+- Reduce noise inside cities,
 - Consume electrical energy where it is produced,
-- Motivate people to exercise,
-- Occupy less parking space than a car,
 - Be safer than a bike,
+- Occupy less parking space than a car,
+- Motivate people to exercise,
 - Motivate people to build their own trike.
 
 # Technical specs
@@ -120,4 +121,4 @@ Mihai Oltean, *Solar Bear; A hybrid trike*, 2025.
 
 ## Special thanks to
 
-Dorin Popa, Nicolae Oltean, Cristian Simina, Emil Roșu, Sam Rabern Luck, Mihaela Roșu, Zuga Răzvan, ... and many others ...
+Dorin Popa, Nicolae Oltean, Cristian Simina, Emil Roșu, Sam Rabern Luck, Mihaela Roșu, Zuga Răzvan, Călin Rusu ... and many others ...
