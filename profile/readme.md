@@ -10,6 +10,7 @@ The purpose of the __Solar Bear__ is to:
 - Reduce the gas emissions,
 - Reduce noise inside cities,
 - Consume electrical energy where it is produced,
+- Use solar panels trike body,
 - Be safer than a bike,
 - Occupy less parking space than a car,
 - Motivate people to exercise,
@@ -18,12 +19,12 @@ The purpose of the __Solar Bear__ is to:
 # Technical specs
 
 - recumbent trike,
-- 2.7m long, 1.7m wide (including wheels),
-- weight: 120kg (excluding driver, including panels),
+- 2.5m long, 1.4m wide (including wheels),
+- weight: 70kg (excluding driver, including panels),
 - assisted pedalling,
 - motor max speed: 25km/h,
 - motor (continuous) power: 250W,
-- solar power: max 600W,
+- solar power: max 400W,
 - battery: owner choice.
 
 ## Maker
@@ -40,12 +41,11 @@ Town: **Cugir**, country: **Romania**.
 
 ## Materials
 
-- solar panels: front 2x Victron 1485x668mm, back 2x Victron 1030x668mm,
+- solar panels: front 2x Victron 1485x668mm, back 2x Victron 550x668mm,
 - battery: TBD,
 - motor: Bosch Active Line,
-- rectangular tube 50x30x2: 7m,
-- rectangular tube 40x20x2: 80cm,
-- round tube 3/4: 2m,
+- rectangular tube 40x20x2: 7m,
+- rectangular tube 30x20x2: 80cm,
 - round tube 1/2: 70cm,
 - aluminium profiles sigma 20x20: 24m,
 - bike chain: 4m,
@@ -55,7 +55,7 @@ Town: **Cugir**, country: **Romania**.
 
 ## Tools
 
-- Band saw (able to cut 80x40mm rectangular tube at 52 degrees angle). I have a [PILOUS ARG 130 mobil](https://www.pilous.cz/en/metal/bandsaws/manual/arg-130-mobil). A panel circular saw (with blade for metals) is also good if you do not have a band saw.
+- Band saw. I have a [PILOUS ARG 130 mobil](https://www.pilous.cz/en/metal/bandsaws/manual/arg-130-mobil). A panel circular saw (with blade for metals) is also good if you do not have a band saw.
 - Drill machine. I have a [Milwaukee M18 FDD3](https://www.milwaukeetool.com/).
 - Welding machine. I have a [Lorch Handy 160](https://lorch.eu).
 - Panel circular saw, (I have a Bosch - GCM 12 SDE).
