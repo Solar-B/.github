@@ -31,7 +31,11 @@ The purpose of the __Solar Bear__ is to:
 
 [Mihai Oltean](https://mihaioltean.github.io)
 
-## Project inception location
+## Pictures and videos
+
+[https://www.facebook.com/profile.php?id=61585957465461](https://www.facebook.com/profile.php?id=61585957465461)
+
+## Project inception, location
 
 Town: **Cugir**, country: **Romania**.
 
@@ -92,12 +96,6 @@ More details will be given here, soon ... [instructions.md](instructions.md)
 
 Will be updated ...
 
-## Pictures and videos
-
-A video will be posted soon ...
-
-More pictures soon ...
-
 ## License
 
 MIT
@@ -114,7 +112,7 @@ Mihai Oltean, *Solar Bear; A hybrid trike*, 2025.
 
 - I am *NOT an expert* in ANY of the subjects used in the design and construction of this project! 
 
-- Use it on *your OWN risk*!
+- Use it, build it, on *your OWN risk*!
 
 - This is a work in progress. Everything might change depending on the experiment results.
 
