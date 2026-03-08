@@ -10,7 +10,7 @@ The purpose of the __Solar Bear__ is to:
 - Reduce the gas emissions,
 - Reduce noise inside cities,
 - Consume electrical energy where it is produced,
-- Use solar panels trike body,
+- Use solar panels as trike's body,
 - Be safer than a bike,
 - Occupy less parking space than a car,
 - Motivate people to exercise,
@@ -45,16 +45,20 @@ Town: **Cugir**, country: **Romania**.
 
 ## Materials
 
+- rectangular tube (steel) 40x40x2: 1.4m,
+- rectangular tube (steel) 40x20x2: 7m,
+- rectangular tube (steel) 30x20x2: 80cm,
+- L profile (steel) 25x25: 3m,
+- L profile (steel): 30x30: 67cm,
+- L profile (steel): 40x40: 50cm,
+- conic bearings: 4pcs,
+- sigma profile (aluminium) 20x20: 24m,
+- L profile (aluminium): 30x30x3: 2.5m,
+- wheels: front: 2x20", back: 1x24",
 - solar panels: front 2x Victron 1485x668mm, back 2x Victron 550x668mm,
-- battery: TBD,
 - motor: Bosch Active Line,
-- rectangular tube 40x20x2: 7m,
-- rectangular tube 30x20x2: 80cm,
-- round tube 1/2: 70cm,
-- aluminium profiles sigma 20x20: 24m,
-- bike chain: 4m,
-- bike parts: pedals, brakes, speed changer, etc,
-- threaded pipe M12: 8pcs of 1m,
+- battery: TBD,
+- bike parts: pedals, chain(4m) brakes, speed changer, lighting system, horn, etc,
 - screws, nuts, washers (M5, M6, M8, M10, M12): many.
 
 ## Tools
@@ -83,7 +87,7 @@ Town: **Cugir**, country: **Romania**.
 
 More details will be given here, soon ... [instructions.md](instructions.md)
 
-## Cost
+## Price of materials
 
 - Prices do not include manufacturing (which I did it by myself) and tools (which I already have).
 
@@ -91,8 +95,8 @@ More details will be given here, soon ... [instructions.md](instructions.md)
 
 - Prices include VAT.
 
-|Material     |Quantity |Unit |Price per unit| Total price (EURO)|
-| ----------- | ------- | --- | ------- | --- |
+|Material     |Quantity |Unit |Price per unit| Total price (EURO)|Where to buy|
+| ----------- | ------- | --- | ------- | ----- | ------ |
 
 Will be updated ...
 
@@ -119,4 +123,4 @@ Mihai Oltean, *Solar Bear; A hybrid trike*, 2025.
 
 ## Special thanks to
 
-Dorin Popa, Nicolae Oltean, Cristian Simina, Emil Roșu, Sam Rabern Luck, Mihaela Roșu, Zuga Răzvan, Călin Rusu ... and many others ...
+Dorin Popa, Nicolae Oltean, Cristian Simina, Emil Roșu, Sam Rabern Luck, Liviu Știrb, Mihaela Roșu, Zuga Răzvan, Călin Rusu ... and many others ...
