@@ -60,9 +60,9 @@ L profile (steel): 40x40: 50cm | ? | ? | ? |
 conic bearings | 4 | pcs | ? | ? | ? |
 sigma profile (aluminium) 20x20 | 24 | m | ? | ? | ? |
 L profile (aluminium): 30x30x3 | 2.5 | m | ? | ? | ? |
-wheels (front): 20" | 1 | pcs | , 
-wheel (rear): 24" | 1 | pcs | ? | ? | ? |
-solar panels (front) Victron 1485x668mm | 2 | pcs|
+wheels (front): 20" | 1 | pcs | ? | ? | ? |
+wheel (rear): 24" | 1 | pcs | ? | ? | ? | 
+solar panels (front) Victron 1485x668mm | 2 | pcs| ? | ? | ? |
 solar panels (rear) Victron 550x668mm | 2 | pcs | ? | ? | ? |
 motor: Bosch Active Line, Cargo | 1 | pcs | ? | ? | ? |
 battery: TBD | ? | pcs | ? | ? | ? |
@@ -71,7 +71,7 @@ chain | 4 | m  | ? | ? | ? |
 brakes | 3 | pcs  | ? | ? | ? |
 speed changer | 1 | pcs | ? | ? | ? |
 lighting system 1 | pcs | ? | ? | ? | 
-electrical cable 3 wires | 20 | m | ? | ? | ? | 
+electrical cable 3 wires | 20 | m | ? | ? | ? |
 horn | 1 | pcs | ? | ? | ? |
 screws, nuts, washers (M5, M6, M8, M10, M12)| many | pcs | ? | ? | ? |
 
