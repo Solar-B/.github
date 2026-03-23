@@ -57,12 +57,14 @@ rectangular tube (steel) 30x20x2 | 80 | cm | ? | ? | ? |
 L profile (steel) 25x25 | 3 | m |  ? | ? | ? |
 L profile (steel): 30x30 | 67 | cm | ? | ? | ? |
 L profile (steel): 40x40: 50cm | ? | ? | ? |
-conic bearings: 4pcs | ? | ? | ? |
-sigma profile (aluminium) 20x20: 24m | ? | ? | ? |
-L profile (aluminium): 30x30x3: 2.5m | ? | ? | ? |
-wheels: front: 2x20", back: 1x24" | ? | ? | ? |
-solar panels: front 2x Victron 1485x668mm, back 2x Victron 550x668mm | ? | ? | ? |
-motor: Bosch Active Line, Cargo 1 | pcs | ? | ? | ? |
+conic bearings | 4 | pcs | ? | ? | ? |
+sigma profile (aluminium) 20x20 | 24 | m | ? | ? | ? |
+L profile (aluminium): 30x30x3 | 2.5 | m | ? | ? | ? |
+wheels (front): 20" | 1 | pcs | , 
+wheel (rear): 24" | 1 | pcs | ? | ? | ? |
+solar panels (front) Victron 1485x668mm | 2 | pcs|
+solar panels (rear) Victron 550x668mm | 2 | pcs | ? | ? | ? |
+motor: Bosch Active Line, Cargo | 1 | pcs | ? | ? | ? |
 battery: TBD | ? | pcs | ? | ? | ? |
 pedals | 1 | set | ? | ? | ? |
 chain | 4 | m  | ? | ? | ? |
