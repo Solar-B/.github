@@ -63,7 +63,7 @@ solar panels (front) flexible 1500x650mm | 2 | pcs| ? | ? | ? |
 solar panels (rear) flexible 600x650mm | 2 | pcs | ? | ? | ? |
 motor: 250W | 1 | pcs | ? | ? | ? |
 controller: | 1 | pcs | ? | ? | ? |
-battery: TBD | ? | pcs | ? | ? | ? |
+battery: 300Wh | 1 | pcs | ? | ? | ? |
 pedals | 1 | set | ? | ? | ? |
 chain | 4 | m  | ? | ? | ? |
 brakes | 3 | pcs  | ? | ? | ? |
@@ -86,7 +86,7 @@ screws, nuts, washers (M5, M6, M8, M10, M12)| many | pcs | ? | ? | ? |
 ## Software
 
 - [OpenSCAD](https://openscad.org) - for 3D design.
-- [Real Cut 1D](https://optimalprograms.com/realcut1d.htm) - for minimizing the waste when cutting linear materias (bars).
+- [Real Cut 1D](https://optimalprograms.com/realcut1d.htm) - for minimizing the waste when cutting linear materias (bars) (if you have a lot of bars to cut from).
 
 ## Build instructions
 
