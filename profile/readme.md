@@ -61,7 +61,7 @@ wheels (front): 20" | 1 | pcs | ? | ? | ? |
 wheel (rear): 24" | 1 | pcs | ? | ? | ? |
 solar panels (front) flexible 1500x650mm | 2 | pcs| ? | ? | ? |
 solar panels (rear) flexible 600x650mm | 2 | pcs | ? | ? | ? |
-motor: | 1 | pcs | ? | ? | ? |
+motor: 250W | 1 | pcs | ? | ? | ? |
 controller: | 1 | pcs | ? | ? | ? |
 battery: TBD | ? | pcs | ? | ? | ? |
 pedals | 1 | set | ? | ? | ? |
