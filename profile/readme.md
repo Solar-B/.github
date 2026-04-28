@@ -20,7 +20,7 @@ The purpose of the __Solar Bear__ is to:
 
 - recumbent trike,
 - 2.5m long, 1.45m wide (including wheels),
-- weight: 70kg (excluding driver, including panels),
+- weight: 50kg (excluding driver, including panels),
 - assisted pedalling,
 - motor max speed: 25km/h,
 - motor (continuous) power: 250W,
@@ -49,22 +49,20 @@ Prices are specific to my region (Cugir, Romania). I have not searched for bette
 
 Will be updated ...
 
-|Material     |Quantity |Unit |Price per unit| Total price (EURO)|Where to buy|
+| Material     | Quantity | Unit |Price per unit| Total price (EURO)|Where to buy|
 | ----------- | ------- | --- | ------- | ----- | ------ |
 rectangular tube (steel) 40x40x2 | 1.4 | m | ? | ? | ? |
 rectangular tube (steel) 40x20x2 | 7 | m |  ? | ? | ? |
 rectangular tube (steel) 30x20x2 | 80 | cm | ? | ? | ? |
-L profile (steel) 25x25 | 3 | m |  ? | ? | ? |
-L profile (steel): 30x30 | 67 | cm | ? | ? | ? |
-L profile (steel): 40x40: 50cm | ? | ? | ? |
+L profile (steel) 25x25 | 90 | cm |  ? | ? | ? |
 conic bearings | 4 | pcs | ? | ? | ? |
-sigma profile (aluminium) 20x20 | 24 | m | ? | ? | ? |
-L profile (aluminium): 30x30x3 | 2.5 | m | ? | ? | ? |
+aluminium bars 25mm | 8 | m | ? | ? | ? |
 wheels (front): 20" | 1 | pcs | ? | ? | ? |
 wheel (rear): 24" | 1 | pcs | ? | ? | ? |
-solar panels (front) Victron 1485x668mm | 2 | pcs| ? | ? | ? |
-solar panels (rear) Victron 550x668mm | 2 | pcs | ? | ? | ? |
-motor: Bosch Active Line, Cargo | 1 | pcs | ? | ? | ? |
+solar panels (front) flexible 1500x650mm | 2 | pcs| ? | ? | ? |
+solar panels (rear) flexible 600x650mm | 2 | pcs | ? | ? | ? |
+motor: | 1 | pcs | ? | ? | ? |
+controller: | 1 | pcs | ? | ? | ? |
 battery: TBD | ? | pcs | ? | ? | ? |
 pedals | 1 | set | ? | ? | ? |
 chain | 4 | m  | ? | ? | ? |
@@ -87,7 +85,7 @@ screws, nuts, washers (M5, M6, M8, M10, M12)| many | pcs | ? | ? | ? |
 
 ## Software
 
-- [OpenSCAD](https://openscad.org) - for design.
+- [OpenSCAD](https://openscad.org) - for 3D design.
 - [Real Cut 1D](https://optimalprograms.com/realcut1d.htm) - for minimizing the waste when cutting linear materias (bars).
 
 ## Build instructions
@@ -100,7 +98,6 @@ screws, nuts, washers (M5, M6, M8, M10, M12)| many | pcs | ? | ? | ? |
 - Go!
 
 More details will be given here, soon ... [instructions.md](instructions.md)
-
 
 ## License
 
