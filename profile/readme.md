@@ -6,15 +6,15 @@ A hybrid Sun/muscle-powered trike!
 
 The purpose of the __Solar Bear__ is to:
 
+- Use solar panels as trike's body,
+- Consume electrical energy where it is produced,
 - Transport people inside cities,
 - Reduce the gas emissions,
 - Reduce noise inside cities,
-- Consume electrical energy where it is produced,
-- Use solar panels as trike's body,
 - Be safer than a bike,
 - Occupy less parking space than a car,
-- Motivate people to exercise,
-- Motivate people to build their own trike.
+- Motivate people to build their own trike,
+- Motivate people to exercise.
 
 # Technical specs
 
