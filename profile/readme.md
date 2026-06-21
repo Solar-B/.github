@@ -94,9 +94,8 @@ screws, nuts, washers (M5, M6, M8, M10, M12)| many | pcs | ? | ? | ? |
 
 - Cut the bars to required size and angle,
 - Build (weld) the structure,
-- Reinforce solar panels,
-- Place solar panels,
-- Connect eletrical installation,
+- Install solar panels,
+- Make the eletrical installation,
 - Go!
 
 More details will be given here, soon ... [instructions.md](instructions.md)
