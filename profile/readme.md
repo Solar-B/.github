@@ -20,7 +20,7 @@ The purpose of the __Solar Bear__ is to:
 
 - recumbent trike,
 - 2.5m long, 1.45m wide (including wheels),
-- weight: 50kg (excluding driver, including panels),
+- weight: about 55kg (excluding driver, including panels),
 - assisted pedalling,
 - motor max speed: 25km/h,
 - motor (continuous) power: 250W,
@@ -59,10 +59,11 @@ conic bearings | 4 | pcs | ? | ? | ? |
 aluminium bars 25mm | 8 | m | ? | ? | ? |
 wheels (front): 20" | 1 | pcs | ? | ? | ? |
 wheel (rear): 24" | 1 | pcs | ? | ? | ? |
-solar panels (front) flexible 1500x650mm | 2 | pcs| ? | ? | ? |
+solar panels (front) flexible 1530x660mm | 2 | pcs| ? | ? | ? |
 solar panels (rear) flexible 600x650mm | 2 | pcs | ? | ? | ? |
-motor: 250W | 1 | pcs | ? | ? | ? |
+motor (mid drive): 250W | 1 | pcs | ? | ? | ? |
 controller: | 1 | pcs | ? | ? | ? |
+PAS sensor: | 1 | pcs | ? | ? | ? |
 battery: 300Wh | 1 | pcs | ? | ? | ? |
 pedals | 1 | set | ? | ? | ? |
 chain | 4 | m  | ? | ? | ? |
@@ -78,8 +79,9 @@ screws, nuts, washers (M5, M6, M8, M10, M12)| many | pcs | ? | ? | ? |
 - Band saw. I have a [PILOUS ARG 130 mobil](https://www.pilous.cz/en/metal/bandsaws/manual/arg-130-mobil). A panel circular saw (with blade for metals) is also good if you do not have a band saw.
 - Drill machine. I have a [Milwaukee M18 FDD3](https://www.milwaukeetool.com/).
 - Welding machine. I have a [Lorch Handy 160](https://lorch.eu).
+- Grinding machine. I have a [Milwaukee M18FSAG125X](https://www.milwaukeetool.com/).
 - Panel circular saw, (I have a Bosch - GCM 12 SDE).
-- Screwdriver (preferably electric).
+- Screwdrivers (preferably electric).
 - Drill bits.
 - Many others...
 
