@@ -51,21 +51,24 @@ Will be updated ...
 
 | Material     | Quantity | Unit |Price per unit| Total price (EURO)|Where to buy|
 | ----------- | ------- | --- | ------- | ----- | ------ |
-rectangular tube (steel) 40x40x2 | 1.4 | m | ? | ? | ? |
-rectangular tube (steel) 40x20x2 | 7 | m |  ? | ? | ? |
-rectangular tube (steel) 30x20x2 | 80 | cm | ? | ? | ? |
+rectangular tube (steel) 40x20x2 | 4.2 | m |  ? | ? | ? |
+rectangular tube (steel) 15x15x1.5 | 2 | m | ? | ? | ? |
 L profile (steel) 25x25 | 90 | cm |  ? | ? | ? |
+round tube (steel) 1" | 90 | cm |  ? | ? | ? |
+rectangular tube (steel) 40x40x2 | 0.4 | m | ? | ? | ? |
 conic bearings | 4 | pcs | ? | ? | ? |
-aluminium bars 25mm | 8 | m | ? | ? | ? |
-wheels (front): 20" | 1 | pcs | ? | ? | ? |
-wheel (rear): 24" | 1 | pcs | ? | ? | ? |
-solar panels (front) flexible 1530x660mm | 2 | pcs| ? | ? | ? |
+aluminium tubes (25mm) | 12 | m | ? | ? | ? |
+wheels (front): 20" | 2 | pcs | ? | ? | ? |
+wheel (rear): 26" | 1 | pcs | ? | ? | ? |
+solar panels (front) flexible 1510x660mm | 2 | pcs| ? | ? | ? |
 solar panels (rear) flexible 600x650mm | 2 | pcs | ? | ? | ? |
 motor (mid drive): 250W | 1 | pcs | ? | ? | ? |
 controller: | 1 | pcs | ? | ? | ? |
 PAS sensor: | 1 | pcs | ? | ? | ? |
 battery: 300Wh | 1 | pcs | ? | ? | ? |
+12V-36V step-up regulator: 500W | 1 | pcs | ? | ? | ? |
 pedals | 1 | set | ? | ? | ? |
+seat | 1 | pcs | ? | ? | ? |
 chain | 4 | m  | ? | ? | ? |
 brakes | 3 | pcs  | ? | ? | ? |
 speed changer | 1 | pcs | ? | ? | ? |
