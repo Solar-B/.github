@@ -20,12 +20,12 @@ The purpose of the __Solar Bear__ is to:
 
 - recumbent trike,
 - 2.5m long, 1.45m wide (including wheels),
-- weight: about 55kg (excluding driver, including panels),
+- weight: about 55kg (excluding driver, including panels, motor, battery, etc),
 - assisted pedalling,
 - motor max speed: 25km/h,
 - motor (continuous) power: 250W,
 - solar power: max 400W,
-- battery: owner choice.
+- battery: 12.8V, 20Ah.
 
 ## Maker
 
@@ -51,31 +51,31 @@ Will be updated ...
 
 | Material     | Quantity | Unit |Price per unit| Total price (EURO)|Where to buy|
 | ----------- | ------- | --- | ------- | ----- | ------ |
-rectangular tube (steel) 40x20x2 | 4.2 | m |  ? | ? | ? |
-rectangular tube (steel) 15x15x1.5 | 2 | m | ? | ? | ? |
-L profile (steel) 25x25 | 90 | cm |  ? | ? | ? |
-round tube (steel) 1" | 90 | cm |  ? | ? | ? |
-rectangular tube (steel) 40x40x2 | 0.4 | m | ? | ? | ? |
-conic bearings | 4 | pcs | ? | ? | ? |
-aluminium tubes (25mm) | 12 | m | ? | ? | ? |
-wheels (front): 20" | 2 | pcs | ? | ? | ? |
-wheel (rear): 26" | 1 | pcs | ? | ? | ? |
-solar panels (front) flexible 1510x660mm | 2 | pcs| ? | ? | ? |
-solar panels (rear) flexible 600x650mm | 2 | pcs | ? | ? | ? |
-motor (mid drive): 250W | 1 | pcs | ? | ? | ? |
-controller: | 1 | pcs | ? | ? | ? |
-PAS sensor: | 1 | pcs | ? | ? | ? |
-battery: 300Wh | 1 | pcs | ? | ? | ? |
-12V-36V step-up regulator: 500W | 1 | pcs | ? | ? | ? |
-pedals | 1 | set | ? | ? | ? |
-seat | 1 | pcs | ? | ? | ? |
-chain | 4 | m  | ? | ? | ? |
-brakes | 3 | pcs  | ? | ? | ? |
-speed changer | 1 | pcs | ? | ? | ? |
-lighting system | 1 | pcs | ? | ? | ? |
-electrical cable 3 wires | 20 | m | ? | ? | ? |
-horn | 1 | pcs | ? | ? | ? |
-screws, nuts, washers (M5, M6, M8, M10, M12)| many | pcs | ? | ? | ? |
+rectangular tube (steel) 40x20x2 | 4.2 | m |  ? | ? | local |
+rectangular tube (steel) 15x15x1.5 | 2 | m | ? | ? | local |
+L profile (steel) 25x25 | 90 | cm |  ? | ? | local |
+round tube (steel) 1" | 90 | cm |  ? | ? | local |
+rectangular tube (steel) 40x40x2 | 0.4 | m | ? | ? | local |
+conic bearings | 4 | pcs | ? | ? | local |
+aluminium tubes (25mm) | 12 | m | ? | ? | local |
+wheels (front): 20" | 2 | pcs | ? | ? | local |
+wheel (rear): 26" | 1 | pcs | ? | ? | local |
+solar panels (front) flexible 1510x660mm | 2 | pcs| 100 | 200 | web |
+solar panels (rear) flexible 600x650mm | 2 | pcs | 50 | 100 | web |
+MPPT (Victron 75/15) | 4 | pcs | 70 | 280 | web |
+Smartshunt (500A/50mV Victron) | 1 | pcs | 100 | 100 | web |
+motor (mid drive Bafang M820): 250W | 1 | pcs | 600 | 600 | Alibaba |
+battery: 250Wh (Victron 12.8v, 20Ah) | 1 | pcs | 200 | 200 | web |
+12V-36V step-up regulator: 500W | 1 | pcs | 50 | 50 | Amazon |
+pedals | 1 | set | ? | ? | local |
+seat | 1 | pcs | 250 | 250 | Thor composite |
+chain | 4 | m  | ? | ? | local |
+brakes | 3 | pcs  | ? | ? | local |
+speed changer | 1 | pcs | ? | ? | local |
+lighting system | 1 | pcs | ? | ? | local |
+electrical cable 3 wires | 20 | m | ? | ? | local |
+horn | 1 | pcs | ? | ? | local |
+screws, nuts, washers (M5, M6, M8, M10, M12)| many | pcs | ? | ? | local |
 
 ## Tools
 
