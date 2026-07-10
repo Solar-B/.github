@@ -66,25 +66,22 @@ MPPT (Victron 75/15) | 4 | pcs | 70 | 280 | web |
 Smartshunt (500A/50mV Victron) | 1 | pcs | 100 | 100 | web |
 motor (mid drive Bafang M820): 250W | 1 | pcs | 600 | 600 | Alibaba |
 battery: 250Wh (Victron 12.8v, 20Ah) | 1 | pcs | 200 | 200 | web |
-12V-36V step-up regulator: 500W | 1 | pcs | 50 | 50 | Amazon |
+12V-36V (500W) step-up regulator | 1 | pcs | 50 | 50 | Amazon |
 pedals | 1 | set | ? | ? | local |
 seat | 1 | pcs | 250 | 250 | Thor composite |
 chain | 4 | m  | ? | ? | local |
 brakes | 3 | pcs  | ? | ? | local |
 speed changer | 1 | pcs | ? | ? | local |
 lighting system | 1 | pcs | ? | ? | local |
-electrical cable 3 wires | 20 | m | ? | ? | local |
+electrical cable | many | m | ? | ? | local |
 horn | 1 | pcs | ? | ? | local |
 screws, nuts, washers (M5, M6, M8, M10, M12)| many | pcs | ? | ? | local |
 
 ## Tools
 
-- Band saw. I have a [PILOUS ARG 130 mobil](https://www.pilous.cz/en/metal/bandsaws/manual/arg-130-mobil). A panel circular saw (with blade for metals) is also good if you do not have a band saw.
-- Drill machine. I have a [Milwaukee M18 FDD3](https://www.milwaukeetool.com/).
+- Drill / screw driver machine. I have a [Milwaukee M18 FDD3](https://www.milwaukeetool.com/).
 - Welding machine. I have a [Lorch Handy 160](https://lorch.eu).
-- Grinding machine. I have a [Milwaukee M18FSAG125X](https://www.milwaukeetool.com/).
-- Panel circular saw, (I have a Bosch - GCM 12 SDE).
-- Screwdrivers (preferably electric).
+- Grinding/metal cutting machine. I have a [Milwaukee M18FSAG125X](https://www.milwaukeetool.com/).
 - Drill bits.
 - Many others...
 
@@ -97,8 +94,9 @@ screws, nuts, washers (M5, M6, M8, M10, M12)| many | pcs | ? | ? | local |
 
 - Cut the bars to required size and angle,
 - Build (weld) the structure,
-- Install solar panels,
+- Install the motor, battery,
 - Make the eletrical installation,
+- Install the solar panels,
 - Go!
 
 More details will be given here, soon ... [instructions.md](instructions.md)
