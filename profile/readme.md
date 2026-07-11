@@ -66,7 +66,7 @@ solar panels (rear) flexible 540x610mm | 2 | pcs | 50 | 100 | web |
 MPPT (Victron 75/15, 12V) | 4 | pcs | 70 | 280 | web |
 Smartshunt (500A/50mV Victron) | 1 | pcs | 100 | 100 | web |
 motor (mid drive Bafang M820): 250W | 1 | pcs | 600 | 600 | Alibaba |
-battery: 250Wh (Victron 12.8v, 20Ah, LiSP) | 1 | pcs | 200 | 200 | web |
+battery: 256Wh (Victron 12.8v, 20Ah, LiSP) | 1 | pcs | 200 | 200 | web |
 12V-36V (540W) step-up regulator | 1 | pcs | 50 | 50 | Amazon |
 pedals | 1 | set | ? | ? | local |
 seat | 1 | pcs | 250 | 250 | Thor composite |
