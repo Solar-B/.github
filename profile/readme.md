@@ -57,7 +57,7 @@ rectangular tube (steel) 15x15x1.5 | 2 | m | ? | ? | local |
 L profile (steel) 25x25 | 90 | cm |  ? | ? | local |
 round tube (steel) 1" | 90 | cm |  ? | ? | local |
 rectangular tube (steel) 40x40x2 | 0.4 | m | ? | ? | local |
-conic bearings | 4 | pcs | ? | ? | local |
+conic bearings  (14/35mm dia)| 4 | pcs | ? | ? | local |
 aluminium tubes (25mm) | 12 | m | ? | ? | local |
 wheels (front): 20" | 2 | pcs | ? | ? | local |
 wheel (rear): 26" | 1 | pcs | ? | ? | local |
