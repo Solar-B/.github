@@ -50,7 +50,7 @@ Prices are specific to my region (Cugir, Romania). I have not searched for bette
 
 Will be updated ...
 
-| Material     | Quantity | Unit |Price per unit| Total price (EURO)|Where to buy|
+| Material     | Quantity | Unit |Price per unit (EURO)| Total price |Where to buy|
 | ----------- | ------- | --- | ------- | ----- | ------ |
 rectangular tube (steel) 40x20x2 | 4.2 | m |  ? | ? | local |
 rectangular tube (steel) 15x15x1.5 | 2 | m | ? | ? | local |
@@ -62,18 +62,19 @@ aluminium tubes (25mm) | 12 | m | ? | ? | local |
 wheels (front): 20" | 2 | pcs | ? | ? | local |
 wheel (rear): 26" | 1 | pcs | ? | ? | local |
 solar panels (front) flexible 1510x660mm | 2 | pcs| 100 | 200 | web |
-solar panels (rear) flexible 600x650mm | 2 | pcs | 50 | 100 | web |
-MPPT (Victron 75/15) | 4 | pcs | 70 | 280 | web |
+solar panels (rear) flexible 540x610mm | 2 | pcs | 50 | 100 | web |
+MPPT (Victron 75/15, 12V) | 4 | pcs | 70 | 280 | web |
 Smartshunt (500A/50mV Victron) | 1 | pcs | 100 | 100 | web |
 motor (mid drive Bafang M820): 250W | 1 | pcs | 600 | 600 | Alibaba |
-battery: 250Wh (Victron 12.8v, 20Ah) | 1 | pcs | 200 | 200 | web |
-12V-36V (500W) step-up regulator | 1 | pcs | 50 | 50 | Amazon |
+battery: 250Wh (Victron 12.8v, 20Ah, LiSP) | 1 | pcs | 200 | 200 | web |
+12V-36V (540W) step-up regulator | 1 | pcs | 50 | 50 | Amazon |
 pedals | 1 | set | ? | ? | local |
 seat | 1 | pcs | 250 | 250 | Thor composite |
 chain | 4 | m  | ? | ? | local |
 brakes | 3 | pcs  | ? | ? | local |
-speed changer | 1 | pcs | ? | ? | local |
-lighting system | 1 | pcs | ? | ? | local |
+derailleur (7 speeds) | 1 | pcs | ? | ? | local |
+gear shifter | 1 | pcs | ? | ? | local |
+lighting system | 5 | pcs | ? | ? | local |
 electrical cable | many | m | ? | ? | local |
 horn | 1 | pcs | ? | ? | local |
 screws, nuts, washers (M5, M6, M8, M10, M12)| many | pcs | ? | ? | local |
