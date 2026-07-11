@@ -8,6 +8,7 @@ The purpose of the __Solar Bear__ is to:
 
 - Use solar panels as trike's body,
 - Consume electrical energy where it is produced,
+- Produce its own energy,
 - Transport people inside cities,
 - Reduce the gas emissions,
 - Reduce noise inside cities,
@@ -20,12 +21,12 @@ The purpose of the __Solar Bear__ is to:
 
 - recumbent trike,
 - 2.5m long, 1.45m wide (including wheels),
-- weight: about 55kg (excluding driver, including panels, motor, battery, etc),
+- weight: about 55kg (including panels, motor, battery, etc, excluding driver),
 - assisted pedalling,
-- motor max speed: 25km/h,
+- motor speed: max 25km/h,
 - motor (continuous) power: 250W,
-- solar power: max 400W,
-- battery: 12.8V, 20Ah.
+- solar power: max 520W,
+- battery: 12.8V, 20Ah (256Wh).
 
 ## Maker
 
