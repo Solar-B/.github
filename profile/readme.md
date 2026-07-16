@@ -49,7 +49,7 @@ Prices are specific to my region (Cugir, Romania). I have not searched for bette
 Will be updated ...
 
 | Material     | Quantity | Unit |Price per unit (EURO)| Total price | Utilization | Where to buy|
-| ----------- | ------- | --- | ------- | ----- | ------ |
+| ----------- | ------- | --- | ------- | ----- | ------ | ------ |
 rectangular tube (steel) 40x20x2 | 4.2 | m |  ? | ? | base frame | local store|
 rectangular tube (steel) 15x15x1.5 | 2 | m | ? | ? | panels support | local |
 L profile (steel) 25x25 | 90 | cm |  ? | ? | rear side | local |
@@ -75,7 +75,7 @@ gear shifter | 1 | pcs | ? | ? | | local |
 lighting system | 5 | pcs | ? | ? | | local |
 electrical cable | many | m | ? | ? | | local |
 horn | 1 | pcs | ? | ? | | local |
-screws, nuts, washers (M5, M6, M8, M10, M12)| many | pcs | ? | ? | | local |
+screws, nuts, washers (M5, M6, M8, M10, M12)| many | pcs | ? | ? | ? | local |
 
 ## Tools
 
