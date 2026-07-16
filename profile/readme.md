@@ -48,7 +48,7 @@ Prices are specific to my region (Cugir, Romania). I have not searched for bette
 
 Will be updated ...
 
-| Material     | Quantity | Unit |Price per unit (EURO)| Total price |Utilization|Where to buy|
+| Material     | Quantity | Unit |Price per unit (EURO)| Total price | Utilization | Where to buy|
 | ----------- | ------- | --- | ------- | ----- | ------ |
 rectangular tube (steel) 40x20x2 | 4.2 | m |  ? | ? | base frame | local store|
 rectangular tube (steel) 15x15x1.5 | 2 | m | ? | ? | panels support | local |
