@@ -59,8 +59,8 @@ conic bearings  (14/35mm dia)| 4 | pcs | ? | ? | local |
 aluminium tubes (25mm) | 12 | m | ? | ? | local |
 wheels (front): 20" | 2 | pcs | ? | ? | local |
 wheel (rear): 26" | 1 | pcs | ? | ? | local |
-solar panels (front) flexible 1510x660mm | 2 | pcs| 100 | 200 | web |
-solar panels (rear) flexible 540x610mm | 2 | pcs | 50 | 100 | web |
+solar panels (front) flexible 1510x660mm, 200W | 2 | pcs| 100 | 200 | web |
+solar panels (rear) flexible 540x610mm, 60W | 2 | pcs | 50 | 100 | web |
 MPPT (Victron 75/15, 12V) | 4 | pcs | 70 | 280 | web |
 Smartshunt (500A/50mV Victron) | 1 | pcs | 100 | 100 | web |
 motor (mid drive Bafang M820): 250W | 1 | pcs | 600 | 600 | Alibaba |
