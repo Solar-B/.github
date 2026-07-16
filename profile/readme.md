@@ -75,7 +75,7 @@ gear shifter | 1 | pcs | ? | ? | | local |
 lighting system | 5 | pcs | ? | ? | | local |
 electrical cable | many | m | ? | ? | | local |
 horn | 1 | pcs | ? | ? | | local |
-screws, nuts, washers (M5, M6, M8, M10, M12)| many | pcs | ? | ? | ? | local |
+screws, nuts, washers (M5, M6, M8, M10, M12)| many | pcs | ? | ? | everywhere | local |
 
 ## Tools
 
