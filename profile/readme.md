@@ -50,7 +50,7 @@ Will be updated ...
 
 | Material     | Quantity | Unit |Price per unit (EURO)| Total price | Utilization | Where to buy|
 | ----------- | ------- | --- | ------- | ----- | ------ | ------ |
-rectangular tube (steel) 40x20x2 | 4.2 | m |  ? | ? | base frame | local store|
+rectangular tube (steel) 30x20x2mm | 4.2 | m |  ? | ? | base frame | local store|
 rectangular tube (steel) 15x15x1.5 | 2 | m | ? | ? | panels support | local |
 L profile (steel) 25x25 | 90 | cm |  ? | ? | rear side | local |
 round tube (steel) 1" | 90 | cm |  ? | ? | front wheels | local |
