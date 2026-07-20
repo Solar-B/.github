@@ -10,9 +10,10 @@ The purpose of the __Solar Bear__ is to:
 - Consume electrical energy where it is produced,
 - Produce its own energy,
 - Transport people inside cities,
+- Be pedalable when there is no sun,
+- Be easily built at home,
 - Reduce noise inside cities,
 - Occupy less parking space than a car,
-- Motivate people to build their own trike,
 - Motivate people to exercise.
 
 # Technical specs
@@ -110,6 +111,19 @@ You may do whatever you want with this information as long as you mention the au
 ## Cite as
 
 Mihai Oltean, *Solar Bear; A hybrid trike*, 2025.
+
+## History
+
+- 2025, July 18. The idea!
+- 2025, July (end of). Named it __Solar Big Little Bear__, later simplified to __Solar Bear__.
+- 2025, October 1, Installed solar panels on version 1 (V1).
+- 2025, November 12, I gave a talk at ITDays in Cluj-Napoca.
+- 2025, December 2, V2 build.
+- 2026, March 2, V3 build.
+- 2026, April 6, V4 build.
+- 2026, April 11-12, at VELOBerlin, Germany.
+- 2026, April 25-26, at SPEZI, Freiburg, Germany.
+
 
 ## Warning
 
