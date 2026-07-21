@@ -13,9 +13,8 @@ The purpose of the __Solar Bear__ is to:
 - Be pedalable when there is no sun or battery,
 - Power the home when stationary,
 - Carry big luggage,
-- Be easily built at home,
 - Reduce noise inside cities,
-- Occupy less parking space than a car,
+- Be easily built at home,
 - Motivate people to exercise.
 
 # Technical specs
