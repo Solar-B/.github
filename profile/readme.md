@@ -58,9 +58,9 @@ L profile (steel) 25x25 | 90 | cm |  ? | ? | rear side | local |
 round tube (steel) 1" | 90 | cm |  ? | ? | front wheels | local |
 rectangular tube (steel) 40x40x2 | 0.4 | m | ? | ? | Castor angle | local |
 conic bearings  (14/35mm dia)| 4 | pcs | ? | ? | front wheels support | local |
-aluminium tubes (25mm) | 12 | m | ? | ? | solar panels frame | local |
-wheels (front): 20" | 2 | pcs | ? | ? | | local |
-wheel (rear): 26" | 1 | pcs | ? | ? | | local |
+aluminium tubes (25mm) | 12 | m | 5 | 60 | solar panels frame | local |
+wheels (front): 20" | 2 | pcs | 50 | 100 | | local |
+wheel (rear): 26" | 1 | pcs | 50 | 50 | | local |
 solar panels (front) flexible 1510x660mm, 200W | 2 | pcs| 100 | 200 || web |
 solar panels (rear) flexible 540x610mm, 60W | 2 | pcs | 50 | 100 | | web |
 MPPT (Victron 75/15, 12V) | 4 | pcs | 70 | 280 | | web |
