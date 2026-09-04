@@ -63,7 +63,8 @@ wheels (front): 20" | 2 | pcs | 50 | 100 | | local |
 wheel (rear): 26" | 1 | pcs | 50 | 50 | | local |
 solar panels (front) flexible 1510x660mm, 200W | 2 | pcs| 100 | 200 || web |
 solar panels (rear) flexible 540x610mm, 60W | 2 | pcs | 50 | 100 | | web |
-MPPT (Victron 75/15, 12V) | 4 | pcs | 70 | 280 | | web |
+MPPT (Victron 75/15, 12V) | 2 | pcs | 65 | 130 | front panels | web |
+MPPT (Victron 75/10, 12V) | 2 | pcs | 45 | 90 | rear panels | web |
 Smartshunt (500A/50mV Victron) | 1 | pcs | 100 | 100 | | web |
 motor (mid drive Bafang M820): 250W | 1 | pcs | 600 | 600 | | Alibaba |
 battery: 256Wh (Victron 12.8v, 20Ah, LiSP) | 1 | pcs | 200 | 200 | | web |
