@@ -91,7 +91,7 @@ screws, nuts, washers (M5, M6, M8, M10, M12)| many | pcs | ? | ? | everywhere | 
 ## Software
 
 - [OpenSCAD](https://openscad.org) - for 3D design.
-- [Real Cut 1D](https://optimalprograms.com/realcut1d.htm) - for minimizing the waste when cutting linear materias (bars) (if you have a lot of bars to cut from).
+- [Real Cut 1D](https://optimalprograms.com/realcut1d.htm) - for minimizing waste when cutting linear materials (bars) (if you have a lot of bars to cut from).
 
 ## Build instructions
 
