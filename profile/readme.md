@@ -36,6 +36,10 @@ The purpose of the __Solar Bear Vehicle__ is to:
 
 [https://www.facebook.com/profile.php?id=61585957465461](https://www.facebook.com/profile.php?id=61585957465461)
 
+[https://www.instagram.com/oltean.mihai.nicolae/](https://www.instagram.com/oltean.mihai.nicolae)
+
+[https://www.youtube.com/playlist?list=PLQGhVlOwtdFBKP8Y_jEWzZ9uS2IxMESxs](https://www.youtube.com/playlist?list=PLQGhVlOwtdFBKP8Y_jEWzZ9uS2IxMESxs)
+
 ## Project inception and location
 
 Town: **Cugir**, country: **Romania**.
