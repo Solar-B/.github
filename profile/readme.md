@@ -34,6 +34,8 @@ The purpose of the __Solar Bear Vehicle__ is to:
 
 ## Pictures and videos
 
+[https://github.com/solar-b/.github/tree/main/pictures](https://github.com/solar-b/.github/tree/main/pictures)
+
 [https://www.facebook.com/profile.php?id=61585957465461](https://www.facebook.com/profile.php?id=61585957465461)
 
 [https://www.instagram.com/oltean.mihai.nicolae/](https://www.instagram.com/oltean.mihai.nicolae)
